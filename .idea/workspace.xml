@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f85b1bb0-fc5a-47f8-ac1d-e24b24775de9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kejgETopZDfphCKShQhl2uRDHo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.MaxContSumArray">
+    <configuration name="AlienDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.AlienDictionary" />
+      <module name="TargetAmazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxContSumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swiggy.MaxContSumArray" />
+      <module name="TargetAmazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swiggy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinFlipsBinaryAlternate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.MinFlipsBinaryAlternate" />
+      <module name="TargetAmazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelecBubbInser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.SelecBubbInser" />
+      <module name="TargetAmazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestWindowAnother" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.SmallestWindowAnother" />
+      <module name="TargetAmazon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaxContSumArray" />
+        <item itemvalue="Application.MinFlipsBinaryAlternate" />
+        <item itemvalue="Application.SelecBubbInser" />
+        <item itemvalue="Application.SmallestWindowAnother" />
+        <item itemvalue="Application.AlienDictionary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f85b1bb0-fc5a-47f8-ac1d-e24b24775de9" name="Default Changelist" comment="" />
+      <created>1606068060821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606068060821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="269" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609011106262">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="436" y="269" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875@0.25.1440.875" timestamp="1609011106262" />
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1609786102790">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="533" y="184" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1609786102790" />
+    <state x="492" y="349" width="455" height="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610953824638">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="492" y="349" width="455" height="231" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.875@0.25.1440.875" timestamp="1610953824638" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1611510222971">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1611510222971" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1611510222970">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1611510222970" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1611510222970">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1611510222970" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1611510222971">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1611510222971" />
+    <state x="208" y="41" key="SettingsEditor" timestamp="1607285562959">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="208" y="41" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1607285562959" />
+    <state x="107" y="64" key="new project wizard" timestamp="1609086696864">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="107" y="64" key="new project wizard/0.25.1440.875@0.25.1440.875" timestamp="1609086696864" />
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup" timestamp="1611510249551">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="385" y="214" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1611510249551" />
+  </component>
+</project>

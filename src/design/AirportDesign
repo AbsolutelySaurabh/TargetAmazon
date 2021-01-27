@@ -1,0 +1,85 @@
+/*
+ Design a class diagram and data structure to implement N runways in an airport.
+ Single and multiple runway Aircraft Landing Problem.
+*/
+
+Airport{
+    int id;
+    Runway runways[N];
+    ..
+    ...
+}
+
+Use case:
+Aircraft landing...
+select runway.
+getRunway(aircraft, flight); --> returns the nearest available runway base don the Flight details.
+
+another aircraft landing...
+runway full..
+If getRunway() == null --> no runway available..
+
+alarm the pilots --> to vacate runway --> for approaching flight --> on the nearet runway
+runway vacated
+updateRunWayAvailability(int runwayId)
+
+//
+Emergency landings
+------------------
+factors:
+availability
+getSupportedRunway
+alarmPilotOnRunWayFlight
+
+
+PriorityQueue<FlightMovements> movementsQueue[];
+Priority: Emergency > Arrival > Departure
+
+Whenever do movementsQueue, check in movementsQueue[].
+If same timings in movementsQueue, then give priorities, then update the timestamp allowed to others in movementsQueue.
+
+FlightMovement{
+
+    int TYPE; [ 0A, 1D, 2E ]
+    TimeStamp timestamp;
+    Flight flight;
+
+}
+
+
+Runway{
+
+    int id;
+    Capacity capacity;
+    Facility facility;
+    Geography geo;
+    Runway relativeDistanceRunway[];
+    Status currentStatus;
+
+    APIs
+    ----
+    getCurrentStatus();
+    getFacilities();
+    getNearestAvailableRunway();
+
+    isAircraftSupported(Aircraft aircraft);
+    isAvailable();
+
+}
+Geography{
+
+    double elevation;
+    int length;
+    int breadth;
+}
+enum Status{
+    ACTIVE,
+    INACTIVE,
+
+    AVAILABLE,
+    UNAVAILABLE
+}
+Capacity{
+    int maxWeight;
+
+}
